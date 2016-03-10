@@ -42,4 +42,4 @@ Add-ADGroupMember -Identity $user.Groupe -Members $user.username;
 # Fichiers users.csv à mettre à part
 #############################################################################################
 Firstname,Lastname,Phone,mail,Groupe,username
-Napoleon,Bonaparte,0659245444,nbonaparte@moncoyote.com,Infrastructures,nbonaparte
+Napoleon,Bonaparte,0659245444,nbonaparte@toto.com,Infrastructures,nbonaparte
